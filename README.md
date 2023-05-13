@@ -9,3 +9,8 @@ This was a website built to showcase my technical skills, web design skills.
 * Git
 * GitHub
 * VsCode
+
+
+## Homepage visuals
+
+![Imgur](https://i.imgur.com/zzTxoS2.png?1)
