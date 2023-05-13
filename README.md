@@ -13,4 +13,5 @@ This was a website built to showcase my technical skills, web design skills.
 
 ## Homepage visuals
 
-![Imgur](https://github.com/lakshayrao2301/codeclause_portfolio_website/blob/main/README.md)
+<img src="/codeclause_portfolio_website
+/ss1.png" alt="" title="">
